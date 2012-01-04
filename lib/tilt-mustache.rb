@@ -14,4 +14,5 @@ module Tilt
 		end
 	end
 	register 'mustache', MustacheTemplate
+	register 'ms', MustacheTemplate
 end
